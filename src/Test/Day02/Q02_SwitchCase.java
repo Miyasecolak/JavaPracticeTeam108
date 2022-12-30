@@ -23,7 +23,7 @@ public class Q02_SwitchCase {
         else if (operatorType==2) System.out.println("Subtraction="+(num1-num2));
         else if (operatorType==3) System.out.println("Multiclation ="+(num1*num2));
         else if (operatorType==4) System.out.println("division="+ (num1/num2));
-        else System.out.println("invalid input");
+        else System.out.println("invalid str");
 
         System.out.println("=================");
 
@@ -39,7 +39,7 @@ public class Q02_SwitchCase {
             case 4:
                 System.out.println("division="+ (num1/num2));
             default:
-                System.out.println("invalid input");
+                System.out.println("invalid str");
         }
 
         }

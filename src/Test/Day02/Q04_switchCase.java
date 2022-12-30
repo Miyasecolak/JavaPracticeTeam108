@@ -10,7 +10,7 @@ public class Q04_switchCase {
          *
          * islem cinsi icin 1:toplama 2:cikarma 3:carpma 4: bolme
          *
-         * Ornek : Inputs : sayilar : 18 , 10  islem : 3
+         * Ornek : strs : sayilar : 18 , 10  islem : 3
          *         Output : 18 X 10 = 180
          */
 

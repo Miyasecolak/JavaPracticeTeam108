@@ -9,7 +9,7 @@ public class Q01_Arrays {
          * iki array arasinda ayni olan elemanlari bir liste ekleyen program yazin
          * (buyuk kucuk harf onemsiz)
          *
-         * Input1 : {John,Brad,Angel,Sofia,Emily} Input2 : {sofia,brad,grace,emily,hazel}
+         * str1 : {John,Brad,Angel,Sofia,Emily} str2 : {sofia,brad,grace,emily,hazel}
          *
          * Output : [sofia,brad,emily]
          */

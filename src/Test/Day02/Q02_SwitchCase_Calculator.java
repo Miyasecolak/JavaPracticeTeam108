@@ -11,7 +11,7 @@ public class Q02_SwitchCase_Calculator {
          *
          * islem cinsi icin 1:toplama 2:cikarma 3:carpma 4: bolme
          *
-         * Ornek : Inputs : sayilar : 18 , 10  islem : 3
+         * Ornek : strs : sayilar : 18 , 10  islem : 3
          *         Output : 18 X 10 = 180
          */
 
@@ -53,7 +53,7 @@ public class Q02_SwitchCase_Calculator {
                System.out.println("division="+ (num1/num2));
                break;
            default:
-               System.out.println("invalid Input");
+               System.out.println("invalid str");
 
        }
 
